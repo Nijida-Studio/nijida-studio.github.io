@@ -15,12 +15,12 @@ cards:
     excerpt: A specification for structured workspaces, project knowledge and handovers.
     status: Specification
     meta: Open
-    url: https://amts.nijida.studio/en/
+    url: https://amts.nijida.de/en/
   - title: ODTS
     excerpt: A specification for traceable development and task structures from Epic to Task.
     status: Specification
     meta: Open
-    url: https://odts.nijida.studio/en/
+    url: https://odts.nijida.de/en/
 ---
 
 Each project receives its own subdomain so documentation, downloads, licences

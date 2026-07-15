@@ -15,12 +15,12 @@ cards:
     excerpt: ワークスペース、プロジェクト知識、引き継ぎを構造化するための仕様です。
     status: 仕様
     meta: オープン
-    url: https://amts.nijida.studio/ja/
+    url: https://amts.nijida.de/ja/
   - title: ODTS
     excerpt: EpicからTaskまで、追跡しやすい開発・タスク構造のための仕様です。
     status: 仕様
     meta: オープン
-    url: https://odts.nijida.studio/ja/
+    url: https://odts.nijida.de/ja/
 ---
 
 各プロジェクトは専用のサブドメインを持ちます。文書、ダウンロード、

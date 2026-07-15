@@ -15,12 +15,12 @@ cards:
     excerpt: Eine Spezifikation für strukturierte Arbeitsräume, Projektwissen und Übergaben.
     status: Spezifikation
     meta: Offen
-    url: https://amts.nijida.studio/
+    url: https://amts.nijida.de/
   - title: ODTS
     excerpt: Eine Spezifikation für nachvollziehbare Entwicklungs- und Aufgabenstrukturen von Epic bis Task.
     status: Spezifikation
     meta: Offen
-    url: https://odts.nijida.studio/
+    url: https://odts.nijida.de/
 ---
 
 Jedes Projekt erhält eine eigene Subdomain. Dadurch bleiben Dokumentation,

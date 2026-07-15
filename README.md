@@ -1,6 +1,6 @@
 # Nijida Studio website
 
-This branch contains the Jekyll website published at `www.nijida.studio`.
+This branch contains the Jekyll website published at `www.nijida.de`.
 
 During the initial design phase it uses `Nijida-Studio/nijida-theme@themetest`.
 At the first official launch, the approved theme will be merged into the theme
