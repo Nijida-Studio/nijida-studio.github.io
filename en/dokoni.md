@@ -23,3 +23,9 @@ Only the principles are settled: open interfaces, local control, portable
 content and understandable structures. Features and dates will be published
 only when they are dependable.
 
+## Current software projects
+
+- **Kizuna** connects GitHub project work with personal workflows.
+- **Akari CE** is in its project-definition phase and will have an independent architecture.
+
+AMTS and ODTS support this work as open specifications but are not software themselves. Daruma is a supporting internal project and is not presented as part of the Dokoni ecosystem.

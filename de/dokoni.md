@@ -23,3 +23,9 @@ Fest stehen bislang nur die Leitlinien: offene Schnittstellen, lokale Kontrolle,
 portable Inhalte und verständliche Strukturen. Konkrete Funktionen und Termine
 werden erst veröffentlicht, wenn sie belastbar sind.
 
+## Aktuelle Softwareprojekte
+
+- **Kizuna** verbindet GitHub-Projektarbeit mit persönlichen Arbeitsabläufen.
+- **Akari CE** befindet sich in der Projektdefinition und erhält eine eigenständige Architektur.
+
+AMTS und ODTS unterstützen diese Arbeit als offene Spezifikationen, sind selbst aber keine Software. Daruma ist ein internes Hilfsprojekt und wird nicht als Bestandteil des Dokoni Ecosystems geführt.
